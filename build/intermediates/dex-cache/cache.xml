@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\EHSAN\Desktop\AndroidProgramingBook\17_FragmentComposition\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.1.0\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="20.0.0"
+        sha1="80434c45861675a57d690fba5ca31c3d55c89489">
+        <dex dex="C:\Users\EHSAN\Desktop\AndroidProgramingBook\17_FragmentComposition\CriminalIntent\app\build\intermediates\pre-dexed\debug\classes-8adcbe73fc81ee43ccaed9ffba8210553f539be4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\Desktop\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="20.0.0"
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="C:\Users\EHSAN\Desktop\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.1.0_cef5b4f06ddfc0d40432a83181ac7b072dfe888f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\Desktop\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\jars\libs\internal_impl-22.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="20.0.0"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="C:\Users\EHSAN\Desktop\CriminalIntent\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.0_476ff10274ea756942cb1f96c687e423d568a752.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\Desktop\REPORTER\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="20.0.0"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="C:\Users\EHSAN\Desktop\REPORTER\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.1.0_5dc54f639cca8477fb98ef46ea0ade9565941822.jar" />
+    </item>
+    <item
+        jar="C:\Users\EHSAN\Desktop\AndroidProgramingBook\17_FragmentComposition\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.0\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="20.0.0"
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="C:\Users\EHSAN\Desktop\AndroidProgramingBook\17_FragmentComposition\CriminalIntent\app\build\intermediates\pre-dexed\debug\classes-9eb0ea5f01a84ebea2a06fcfbe4fcbc3315c1978.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\Desktop\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="20.0.0"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="C:\Users\EHSAN\Desktop\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.1.0_355df7828054997ebc6aacaa4c18b22dc13ff16a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\Desktop\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="20.0.0"
+        sha1="80434c45861675a57d690fba5ca31c3d55c89489">
+        <dex dex="C:\Users\EHSAN\Desktop\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.1.0_14269b743c3c2d941a393c171664c98b8914513b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\Desktop\REPORTER\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="20.0.0"
+        sha1="80434c45861675a57d690fba5ca31c3d55c89489">
+        <dex dex="C:\Users\EHSAN\Desktop\REPORTER\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.1.0_07bde8631f2d061202b48c328be27f308e9ec782.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\Desktop\REPORTER\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\jars\libs\internal_impl-22.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="20.0.0"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="C:\Users\EHSAN\Desktop\REPORTER\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.0_a2dca8d20b100a4f0ff7ed45e3179490cbf130cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\EHSAN\Desktop\AndroidProgramingBook\17_FragmentComposition\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\libs\internal_impl-22.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="20.0.0"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="C:\Users\EHSAN\Desktop\AndroidProgramingBook\17_FragmentComposition\CriminalIntent\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.0-4b36ce21a732fbf6d038f1d9edc724db7e585f00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.0\support-annotations-22.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="20.0.0"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="C:\Users\EHSAN\Desktop\CriminalIntent\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.0_4ef3a4ffe42315a627fcf96e3d813de47bb0fcdc.jar" />
+    </item>
+    <item
+        jar="C:\Users\EHSAN\Desktop\AndroidProgramingBook\17_FragmentComposition\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="20.0.0"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="C:\Users\EHSAN\Desktop\AndroidProgramingBook\17_FragmentComposition\CriminalIntent\app\build\intermediates\pre-dexed\debug\classes-22d3f7cfe424c4e6a97b47f473cbcd17df409888.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\Desktop\REPORTER\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="20.0.0"
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="C:\Users\EHSAN\Desktop\REPORTER\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.1.0_84525171c09742c3efc412b202edfa522ca938e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\EHSAN\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.0\support-annotations-22.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="20.0.0"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="C:\Users\EHSAN\Desktop\AndroidProgramingBook\17_FragmentComposition\CriminalIntent\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.0-4ef3a4ffe42315a627fcf96e3d813de47bb0fcdc.jar" />
+    </item>
+
+</items>
